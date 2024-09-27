@@ -1,0 +1,1 @@
+game.replicatedstorage.mainEvent:Fireserver("stomp") end
